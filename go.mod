@@ -1,3 +1,3 @@
-module github.com/vectormail/log4g
+module github.com/vsaien/log4g
 
 go 1.12
